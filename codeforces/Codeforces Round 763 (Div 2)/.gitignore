@@ -1,0 +1,6 @@
+*.exe
+*.class
+input.txt
+output.txt
+solution.txt
+template.cpp
