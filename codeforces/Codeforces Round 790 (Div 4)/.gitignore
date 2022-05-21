@@ -1,0 +1,7 @@
+template.cpp
+*.exe
+*.class
+input.txt
+output.txt
+solution.txt
+test\
